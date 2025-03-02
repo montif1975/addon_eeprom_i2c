@@ -1,5 +1,5 @@
 # addon_eeprom_i2c
-Schematic, PCB and construction files (gerber) for add-on with eeprom i2c interface
+Schematic, PCB and construction files (gerber) for add-on with eeprom Microchip 24LC256 using I2C interface.
 
 The project contains two folders:
 - eeprom_i2c is the add-on schematic and single PCB
