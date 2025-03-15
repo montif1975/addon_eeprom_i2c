@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "9.0.0"
     },
-    "CreationDate": "2025-03-02T09:14:39+01:00"
+    "CreationDate": "2025-03-15T22:30:26+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "eeprom_i2c",
       "GUID": "65657072-6f6d-45f6-9932-632e6b696361",
-      "Revision": "rev?"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 25.05,
@@ -47,16 +47,6 @@
       "Path": "eeprom_i2c-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
-    },
-    {
-      "Path": "eeprom_i2c-F_Mask.gbr",
-      "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "eeprom_i2c-B_Mask.gbr",
-      "FileFunction": "SolderMask,Bot",
-      "FilePolarity": "Negative"
     }
   ],
   "MaterialStackup": [

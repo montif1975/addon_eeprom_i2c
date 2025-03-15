@@ -1,5 +1,6 @@
-"Id";"Riferimento";"Impronta";"Quantità";"Valore";"Produttore";
-1;"R1,R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"2k0";;;
-2;"J1,J2,J3";"PinHeader_1x03_P2.54mm_Vertical";3;"Conn_01x03_Pin";;;
-3;"J4";"PinSocket_1x04_P2.54mm_Vertical";1;"1x4 strip 2.54mm";;;
-4;"U1";"DIP-8_W7.62mm";1;"24LC256";;;
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"C1","100nf","~","Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm","1",""
+"J1,J2,J3","Conn_01x03_Pin","~","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","3",""
+"J4","1x4 strip 2.54mm","~","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","1",""
+"R1,R2","2k0","~","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","2",""
+"U1","24LC256","http://ww1.microchip.com/downloads/en/devicedoc/21203m.pdf","Package_DIP:DIP-8_W7.62mm","1",""

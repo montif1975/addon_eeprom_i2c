@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "9.0.0"
     },
-    "CreationDate": "2025-03-02T09:41:02+01:00"
+    "CreationDate": "2025-03-15T22:42:23+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "eeprom_i2c_panel",
       "GUID": "65657072-6f6d-45f6-9932-635f70616e65",
-      "Revision": "rev?"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 69.099,
