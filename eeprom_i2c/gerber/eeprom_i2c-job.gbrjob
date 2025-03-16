@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.0"
     },
-    "CreationDate": "2025-03-15T22:30:26+01:00"
+    "CreationDate": "2025-03-16T17:28:05+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -47,6 +47,16 @@
       "Path": "eeprom_i2c-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
+    },
+    {
+      "Path": "eeprom_i2c-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "eeprom_i2c-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
     }
   ],
   "MaterialStackup": [
