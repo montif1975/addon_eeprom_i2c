@@ -13,3 +13,6 @@ The resulting PCB is:
 The multi-PCB frame is:
 ![eeprom_i2c_addon](/eeprom_i2c_panel/eeprom_i2c_panel.jpg "milti-PCB of eeprom i2c addon")
 
+I printed and mounted some samples, here an image of the PCB:
+![eeprom_i2c_addon](/eeprom_i2c/am001-pcba.jpg "PCB assembled")
+
